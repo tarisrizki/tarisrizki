@@ -20,5 +20,6 @@ I'm student in Syiah Kuala University
 
 ## 🌐 Find Me
 
-[![Linkedin](https://img.shields.io/badge/-M.Taris%20Rizki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-taris-rizki/)](https://www.linkedin.com/in/m-taris-rizki/)
-[![Instagram](https://img.shields.io/badge/-tarisrizki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tarisrizki/)](https://www.instagram.com/tarisrizki/)
+[![Linkedin](https://img.shields.io/badge/-M.Taris%20Rizki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-taris-rizki-440b67210/)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/-tarisrizki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tarisrizki/)](https://www.instagram.com)
+[LinkedIn](https://www.linkedin.com/in/m-taris-rizki-440b67210/)
