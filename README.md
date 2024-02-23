@@ -1,6 +1,6 @@
 # Hi, I'm Taris Rizki! 👋
 
-I'm student in Syiah Kuala University
+I'm a student at Syiah Kuala University.
 
 - 🌱 I enjoy learning and continuously improving my programming skills.
 - 💬 Ask me about C#, Java, HTML, and CSS.
@@ -18,6 +18,5 @@ I'm student in Syiah Kuala University
 
 ## 🌐 Find Me
 
-[![Linkedin](https://img.shields.io/badge/blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-taris-rizki-440b67210/)](https://www.linkedin.com)
-[![Instagram](https://img.shields.io/badge/purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tarisrizki/)](https://www.instagram.com)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-taris-rizki-440b67210/)](https://www.linkedin.com/in/m-taris-rizki-440b67210/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tarisrizki/)](https://www.instagram.com/tarisrizki/)
